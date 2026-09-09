@@ -1,0 +1,6 @@
+{
+  "name": "Universal Video Player & Subtitle Translator",
+  "description": "Play online videos from YouTube, Bilibili, Vimeo, Dailymotion, Twitch, Facebook, and direct media sources with real-time multilingual subtitle translation and AI dubbing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
